@@ -32,7 +32,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: false
     show_search: true
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/omeym/omey-manyar-website-academic/'
     content_dir: content
     branch: main
   avatar:
