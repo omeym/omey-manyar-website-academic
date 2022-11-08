@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Realization of Robotics Systems Lab
     company_url: ''
-    company_logo: org-gc
+    company_logo: usc_logo
     location: Los Angeles, CA
     date_start: '2019-10-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Robotics Technologist
     company: Rolls-Royce Plc
     company_url: ''
-    company_logo: rr_logo.png
+    company_logo: rr_logo
     location: Singapore
     date_start: '2018-01-08'
     date_end: '2019-07-15'
@@ -52,7 +52,7 @@ experience:
   - title: Graduate Engineer Trainee
     company: General Motors India Pvt. Ltd.
     company_url: ''
-    company_logo: org-x
+    company_logo: gm_logo
     location: India
     date_start: '2016-08-01'
     date_end: '2017-07-31'
