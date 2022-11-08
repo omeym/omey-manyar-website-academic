@@ -27,31 +27,31 @@ item:
     date_end: ''
     date_start: '2022-07-15'
     description: ''
-    organization: ASME
-    organization_url: '
-    title: Best Paper Award at IDETC-CIE 2022
+    organization: 'ASME'
+    organization_url: ''
+    title: 'Best Paper Award at IDETC-CIE 2022'
     url: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2021-08-15'
     description: ''
-    organization: University of Southern California
-    organization_url: '
-    title: Viterbi Graduate Student Fellowship
+    organization: 'University of Southern California'
+    organization_url: ''
+    title: 'Viterbi Graduate Student Fellowship'
     url: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2021-05-13'
     description: ''
-    organization: University of Southern California
+    organization: 'University of Southern California'
     organization_url: ''
-    title: Academic Excellence Award
+    title: 'Academic Excellence Award'
     url: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2021-04-01'
     description: ''
-    organization: National Science Foundation
+    organization: 'National Science Foundation'
     organization_url: ''
     title: 'NSF Travel Award for ASME MSEC & IDETC-CIE Conferences (2021, 2022)'
     url: ''
