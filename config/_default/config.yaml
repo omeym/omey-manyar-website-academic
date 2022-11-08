@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Omey Mohan Manyar # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://omey-manyar24.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
