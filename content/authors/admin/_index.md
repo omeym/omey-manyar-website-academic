@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: manyar@usc.edu
+    link: mailto:manyar@usc.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Omeymanyar
