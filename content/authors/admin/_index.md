@@ -3,7 +3,7 @@
 title: Omey Mohan Manyar
 
 # Full name (for SEO)
-first_name: Omey
+first_name: Omey M.
 last_name: Manyar
 
 # Is this the primary user of the site?
