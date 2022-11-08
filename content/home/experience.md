@@ -38,7 +38,7 @@ experience:
   - title: Robotics Technologist
     company: Rolls-Royce Plc
     company_url: ''
-    company_logo: org-gc
+    company_logo: rr_logo
     location: Singapore
     date_start: '2018-01-08'
     date_end: '2019-07-15'
