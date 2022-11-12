@@ -1,5 +1,5 @@
 ---
-title: A Digital Twin for automated layup of Prepreg Composite Sheets
+title: A Digital Twin for Automated Layup of Prepreg Composite Sheets
 publication_types:
   - "1"
 authors:
@@ -22,7 +22,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-
+weight: 20
 publication: ASME Manufacturing Science and Engineering Conference
 draft: false
 featured: true
