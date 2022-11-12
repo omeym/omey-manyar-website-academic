@@ -25,7 +25,7 @@ author_notes:
 weight: 20
 publication: ASME Manufacturing Science and Engineering Conference
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart

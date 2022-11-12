@@ -10,6 +10,7 @@ authors:
   - Vihan Krishnan
   - Jernej Barbic and Satyandra K. Gupta
 featured: false
+publication: ASME IDETC-CIE Conference, 2022
 image:
   filename: featured.png
 
