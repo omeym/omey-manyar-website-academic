@@ -46,9 +46,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: https://www.researchgate.net/publication/360722986_Synthetic_Image_Assisted_Deep_Learning_Framework_for_Detecting_Defects_During_Composite_Sheet_Layup
-url_code: https://github.com/RROS-Lab/DeepSynthDefectDetector
-url_dataset: https://drive.google.com/drive/u/3/folders/191EgISHWs6FH6FCKOSBTKoLQjo29bWh0
+url_pdf: 'https://www.researchgate.net/publication/360722986_Synthetic_Image_Assisted_Deep_Learning_Framework_for_Detecting_Defects_During_Composite_Sheet_Layup'
+url_code: 'https://github.com/RROS-Lab/DeepSynthDefectDetector'
+url_dataset: 'https://drive.google.com/drive/u/3/folders/191EgISHWs6FH6FCKOSBTKoLQjo29bWh0'
 url_poster: ''
 url_project: ''
 url_slides: ''
