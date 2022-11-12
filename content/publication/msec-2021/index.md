@@ -33,5 +33,5 @@ image:
 
 url_pdf: 'https://www.researchgate.net/publication/350927122_A_Digital_Twin_for_Automated_Layup_of_Prepreg_Composite_Sheets?_sg%5B0%5D=ddG7nG96AtL3xT9AcHKDfb8JvNLfq6ujKC1dtRefQ0P8rEr7SmdvfRH3IT4QgJE5U3A4IMifAyvkR6aPfj-Zw_6pc4sAOZFhGlTVe4Cu.jHoJW8d9BQa06FZhpVyt6IPyJ39PEMfzCrRJwdnP8HUSxa7AX3uWCvn6X0oRebM_z4sEan_uc9CDD872BITZLQ'
 
-date: 2022-11-12T06:11:25.994Z
+date: 2021-06-21T06:11:25.994Z
 ---
