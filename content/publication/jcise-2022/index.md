@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: journal-paper.pdf
 url_code: 'https://github.com/RROS-Lab/DeepSynthDefectDetector'
 url_dataset: 'https://drive.google.com/drive/folders/191EgISHWs6FH6FCKOSBTKoLQjo29bWh0?usp=share_link'
 url_poster: ''
