@@ -15,5 +15,8 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
+
+url_pdf: 'https://www.researchgate.net/publication/360723177_Visual_Servo_Based_Trajectory_Planning_for_Fast_and_Accurate_Sheet_Pick_and_Place_Operations'
+
 date: 2022-11-12T06:11:25.994Z
 ---
