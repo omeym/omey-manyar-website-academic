@@ -9,7 +9,7 @@ authors:
   - Reuben Levine
   - Vihan Krishnan
   - Jernej Barbic and Satyandra K. Gupta
-featured: true
+featured: false
 image:
   filename: featured.png
 

@@ -26,7 +26,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 featured: false
-
+draft: true
 links:
 - name: Custom Link
   url: http://example.org
