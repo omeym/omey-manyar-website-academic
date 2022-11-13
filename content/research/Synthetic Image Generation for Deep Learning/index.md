@@ -1,6 +1,6 @@
 ---
 title: Synthetic Image Generation for Deep Learning
-summary: An example of using the in-built project page.
+summary: Synthetic Images are gaining a lot of interest in the field of image segmentation. However most of the current work focuses on generating images without any knowledge of physics ingrained in them as a constraint. This research focuses on exploring different avenues in generating close to real synthetic in the pixel as well as physics domain
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -9,14 +9,9 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  filename: featured.png
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''

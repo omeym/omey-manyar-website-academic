@@ -9,8 +9,8 @@ authors:
 - David Jin Hong Then
 - admin
 
-date: "10.3390/app8112165"
-doi: "https://doi.org/10.1016/j.rcim.2019.01.006"
+date: "2018-11-11T00:00:00Z"
+doi: "10.3390/app8112165"
 
 
 # Publication type.
