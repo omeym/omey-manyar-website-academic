@@ -16,6 +16,7 @@ authors:
 publication: IEEE International Conference in Robotics and Automation
 draft: false
 featured: true
+doi: "10.1109/ICRA48506.2021.9560939"
 image:
   filename: featured.png
   focal_point: Smart
