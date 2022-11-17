@@ -1,6 +1,5 @@
 ---
 title: Physics-based Simulation
-summary: ""
 tags:
   - Simulation
 date: '2022-04-27T00:00:00Z'
