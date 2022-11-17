@@ -1,6 +1,6 @@
 ---
 title: Human to Robot Skill Transfer
-summary: Humans perform several dynamic tasks with ease by learning a high level decision making policy. Whenever a new scenario is encountered decisions are made based on this policy rather than complete re-learning. This work focuses on empowering robots with a similar decision making skill by learning a policy to perform highly dynamical tasks.
+summary: 
 tags:
   - Inverse Reinforcement Learning
 date: '2022-10-14T00:00:00Z'
@@ -24,3 +24,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Humans perform several dynamic tasks with ease by learning a high level decision making policy. Whenever a new scenario is encountered decisions are made based on this policy rather than complete re-learning. This work focuses on empowering robots with a similar decision making skill by learning a policy to perform highly dynamical tasks.

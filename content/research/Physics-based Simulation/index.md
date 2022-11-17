@@ -1,6 +1,6 @@
 ---
 title: Physics-based Simulation
-summary: Simulating deformable objects is a challenging problem. However, Physics-based differentiable simulators are powerful tools in robot motion planning. A differentiable simulator can be used to perform material parameter estimation for accurate simulation of objects under external forces and constraints.
+summary: ""
 tags:
   - Simulation
 date: '2022-04-27T00:00:00Z'
@@ -26,4 +26,4 @@ url_video: ''
 slides: ""
 ---
 
-This research focuses on developing differentiable simulators for deformable objects such as sheets. Once we train a model to accurately estimate the material parameters of the simulated object, we can leverage this simulation to perform robust robot motion planning and object manipulation.
+Simulating deformable objects is a challenging problem. However, Physics-based differentiable simulators are powerful tools in robot motion planning. A differentiable simulator can be used to perform material parameter estimation for accurate simulation of objects under external forces and constraints.

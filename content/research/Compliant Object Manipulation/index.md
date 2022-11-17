@@ -1,6 +1,6 @@
 ---
 title: Compliant Object Manipulation
-summary: Compliant or deformable objects are ubiquitous in day to day life. It becomes important for robots to successfully manipulate and generate feasible motion plans to accomplish tasks involving deformable/complaint objects. Example of such tasks are sheet manipulation and packaging.
+summary: 
 tags:
   - Deep Learning
 date: '2022-03-27T00:00:00Z'
@@ -25,5 +25,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-This research focuses on enabling robots to manipulate and plan with deformable and compliant objects.
+Compliant or deformable objects are ubiquitous in day to day life. It becomes important for robots to successfully manipulate and generate feasible motion plans to accomplish tasks involving deformable/complaint objects. Example of such tasks are sheet manipulation and packaging.
