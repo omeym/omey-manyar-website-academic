@@ -3,7 +3,7 @@ title: Synthetic Image Generation for Deep Learning
 summary: Synthetic Images are gaining a lot of interest in the field of image segmentation. However most of the current work focuses on generating images without any knowledge of physics ingrained in them as a constraint. This research focuses on exploring different avenues in generating close to real synthetic in the pixel as well as physics domain
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
