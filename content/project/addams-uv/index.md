@@ -18,7 +18,7 @@ links:
     name: video
     url: https://www.youtube.com/watch?v=-YdsP9M-Luw&ab_channel=CAMUSCViterbi
   - icon: paperclip
-    icon_pack: fab
+    icon_pack: fas
     name: forbes
     url: https://www.forbes.com/sites/richblake1/2020/04/17/in-covid-19-fight-robots-report-for-disinfection-duty/?sh=3507cc712ada
 url_code: ''

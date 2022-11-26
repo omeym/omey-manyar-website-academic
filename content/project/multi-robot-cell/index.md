@@ -15,7 +15,7 @@ image:
 
 links:
   - icon: paperclip
-    icon_pack: fab
+    icon_pack: fas
     name: link
     url: https://www.lockheedmartin.com/en-us/capabilities/research-labs/advanced-technology-labs/atl_robotic_manufacturing.html
   
