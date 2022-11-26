@@ -32,9 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Team lead for industry funded projects for developing advanced robotic solutions
   - title: Robotics Technologist
     company: Rolls-Royce Plc
     company_url: ''
@@ -45,9 +43,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Worked with research partners to mature technology beyond TRL 4
 
   - title: Graduate Engineer Trainee
     company: General Motors India Pvt. Ltd.
