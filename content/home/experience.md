@@ -29,10 +29,8 @@ experience:
     location: Los Angeles, CA
     date_start: '2019-10-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Team lead for industry funded projects for developing advanced robotic solutions
+    description: Team lead for industry funded projects for developing advanced robotic solutions
+  
   - title: Robotics Technologist
     company: Rolls-Royce Plc
     company_url: ''
@@ -40,10 +38,7 @@ experience:
     location: Singapore
     date_start: '2018-01-08'
     date_end: '2019-07-15'
-    description: |2-
-        Responsibilities include:
-        
-        * Worked with research partners to mature technology beyond TRL 4
+    description: Worked with research partners to mature technology beyond TRL 4
 
   - title: Graduate Engineer Trainee
     company: General Motors India Pvt. Ltd.
