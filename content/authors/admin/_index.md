@@ -18,7 +18,7 @@ organizations:
     url: https://sites.usc.edu/rros/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a 2nd year Ph.D. student at the Realization of Robotics Systems lab at USC and my research focuses on Robot Learning.
+bio: Interested in the work I do? Feel free to reach out with any questions you might have at manyar@usc.edu.
 
 # Interests to show in About widget
 interests:
@@ -63,6 +63,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/omey-manyar/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Omey-Manyar
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -78,7 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am a Ph.D. student in robotics at the University of Southern California. My advisor is [Dr. Satyandra K. Gupta.](https://sites.usc.edu/skgupta/) The focus of my work is on Robot Learning with the goal to enable knowledge transfer between humans and robots. My research also explores learning-based motion planning for deformable objects such as sheets. My vision is to enable a seamless transfer of skills between humans and robots. 
+I am a Ph.D. student in robotics at the University of Southern California working at the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/). My advisor is [Dr. Satyandra K. Gupta.](https://sites.usc.edu/skgupta/). The focus of my work is on Robot Learning with the goal to enable knowledge transfer between humans and robots. I am exploring scalable ways in which we can teach robots skills to execute complex tasks such as deformable object manipulation. 
 
 I have also investigated the generation of synthetic image data for semantic segmentation tasks involving deformable objects. 
 
