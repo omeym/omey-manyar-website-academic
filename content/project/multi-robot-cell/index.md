@@ -1,14 +1,26 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Multi-Robot Cell for Automated Composite Layup on a Rotating Tool
+summary: Composite manufacturing is an industry that is growing rapidly. In this project, we collaborated with Advanced Technology Group at Lockheed Martin to design a multi-robot cell for sheet manipulation, draping and heating. No programming is required and an easy to use interface enables quick setup times with 30% reduction in touch time.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- System
+date: "2021-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: ""
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  filename: featured.png
+  caption: Multi-Robot Cell for sheet layup
   focal_point: Smart
+
+links:
+  - icon: newpaper
+    icon_pack: fab
+    name: link
+    url: https://www.lockheedmartin.com/en-us/capabilities/research-labs/advanced-technology-labs/atl_robotic_manufacturing.html
+  
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 ---
