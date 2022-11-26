@@ -81,10 +81,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student in robotics at the University of Southern California working at the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/). My advisor is [Dr. Satyandra K. Gupta.](https://sites.usc.edu/skgupta/). The focus of my work is on Robot Learning with the goal to enable knowledge transfer between humans and robots. I am exploring scalable ways in which we can teach robots skills to execute complex tasks such as deformable object manipulation. 
+I am a Ph.D. student in robotics at the University of Southern California working at the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/). My advisor is [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). The focus of my work is on Robot Learning with the goal to enable knowledge transfer between humans and robots. I am exploring scalable ways in which we can teach robots skills to execute complex tasks such as deformable object manipulation. 
 
 I have also investigated the generation of synthetic image data for semantic segmentation tasks involving deformable objects. 
 
 Prior to starting my Ph.D., I have led multiple industry-funded projects at USC as a Master's student. In the past, I have worked for Rolls-Royce, Singapore as a Robotics Engineer for two years.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Omey_Manyar_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Omey_Manyar_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
