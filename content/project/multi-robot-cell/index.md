@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: link
+  - icon: fa-link
     icon_pack: fab
     name: link
     url: https://www.lockheedmartin.com/en-us/capabilities/research-labs/advanced-technology-labs/atl_robotic_manufacturing.html
