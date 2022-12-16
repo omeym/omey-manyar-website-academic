@@ -24,4 +24,4 @@ url_video: ''
 slides: ""
 ---
 
-Synthetic Images are gaining a lot of interest in the field of image segmentation. However most of the current work focuses on generating images without any knowledge of physics ingrained in them as a constraint. This research focuses on exploring different avenues in generating close to real synthetic in the pixel as well as physics domain
+Synthetic Images are gaining a lot of interest in the field of image segmentation. However most of the current work focuses on generating images without any knowledge of physics ingrained in them as a constraint. This research focuses on exploring different avenues in generating close to real synthetic in the pixel as well as physics domain.

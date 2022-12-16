@@ -7,6 +7,8 @@ date: '2022-03-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+summary: Compliant or deformable objects are challenging to manipulate due to their inherent physical properties. This work focuses on enabling robots to seamlessly manipulate deformable objects.
+
 image:
   filename: featured.png
   caption: A bi-manual setup for packaging and manipulation of complaint packages
@@ -24,4 +26,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Compliant or deformable objects are ubiquitous in day to day life. It becomes important for robots to successfully manipulate and generate feasible motion plans to accomplish tasks involving deformable/complaint objects. Example of such tasks are sheet manipulation and packaging.
+Compliant or deformable objects are challenging to manipulate due to their inherent physical properties. Majority of the objects that we interact with in our daily lives have some level of deformability associated with them. Thus, it becomes important for robots to successfully manipulate and generate feasible motion plans to accomplish tasks involving deformable/complaint objects.
