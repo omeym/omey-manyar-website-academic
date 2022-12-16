@@ -7,7 +7,7 @@ date: '2022-06-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-summary: Synthetic image data for segmentation tasks has proved beneficial in scenarios with data scarcity. However, most of these methods fail to capture the physics of the components involved, thus generating unrealistic image data. With the aid of physics simulators, we explore different avenues for generating physics-informed synthetic images
+summary: Synthetic image data for segmentation tasks has proved beneficial in scenarios with data scarcity. However, most of these methods fail to capture the physics of the components involved, thus generating unrealistic image data. With the aid of physics simulators, we explore different avenues for generating physics-informed synthetic images.
 
 image:
   filename: featured.png

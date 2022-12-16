@@ -30,10 +30,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Mechanical Engg. (Robotics)
+    - course: PhD in Mechanical Eng. (Robotics)
       institution: University of Southern California
       year: 2025
-    - course: MSc. in Mechanical Engg.
+    - course: MSc. in Mechanical Eng.
       institution: University of Southern California
       year: 2021
     - course: Bachelor of Technology
@@ -83,7 +83,7 @@ highlight_name: true
 
 I am a Ph.D. student in robotics at the University of Southern California working at the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/). My advisor is [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). The focus of my work is on Robot Learning with the goal to enable knowledge transfer between humans and robots. I am exploring scalable ways in which we can teach robots skills to execute complex tasks such as deformable object manipulation. 
 
-I have also investigated the generation of synthetic image data for semantic segmentation tasks involving deformable objects. 
+I have also investigated the generation of synthetic image data for image segmentation tasks involving deformable objects. 
 
 Prior to starting my Ph.D., I have led multiple industry-funded projects at USC as a Master's student. In the past, I have worked for Rolls-Royce, Singapore as a Robotics Engineer for two years.
 
