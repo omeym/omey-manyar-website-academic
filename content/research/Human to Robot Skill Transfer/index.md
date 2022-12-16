@@ -24,4 +24,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Humans perform several dynamic tasks with ease by learning a high level decision making policy. Whenever a new scenario is encountered decisions are made based on this policy rather than complete re-learning. This work focuses on empowering robots with a similar decision making skill by learning a policy to perform highly dynamical tasks.
+Humans perform several dynamic tasks with ease by learning a high-level decision-making policy. Whenever a new scenario is encountered decisions are made based on this policy rather than complete re-learning. One of the key goals of this research is to enable robots to learn from humans in a way that is intuitive and natural so that they can be more easily integrated into a wide range of tasks and environments.
