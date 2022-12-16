@@ -7,6 +7,8 @@ date: '2022-06-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+summary: Synthetic image data for segmentation task has proved powerful in scenarios with data scarcity. However, most of these methods fail to capture the physics of the compoenents involved, thus generating unrealistic image data. With the aid of physics simulators we try to explore different avenues to generate physics-informed synthetic images
+
 image:
   filename: featured.png
   focal_point: Smart
@@ -24,4 +26,4 @@ url_video: ''
 slides: ""
 ---
 
-Synthetic Images are gaining a lot of interest in the field of image segmentation. However most of the current work focuses on generating images without any knowledge of physics ingrained in them as a constraint. This research focuses on exploring different avenues in generating close to real synthetic in the pixel as well as physics domain.
+Synthetic Images are gaining a lot of interest in the field of image segmentation. However most of the current work focuses on generating images without any knowledge of physics ingrained in them as a constraint. This research focuses on exploring different avenues in generating physics-informed synthetic. We have already demonstrated how we can defect complex features such as wrinkles and folds in synthetic data.
