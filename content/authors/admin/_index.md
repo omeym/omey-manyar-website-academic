@@ -23,9 +23,10 @@ bio: Interested in the work I do? Feel free to reach out with any questions you 
 # Interests to show in About widget
 interests:
   - Robot Learning
-  - Motion Planning
+  - Robotic Manipulation
   - Deep Learning
-  - Physics-based Simulation
+  - Motion Planning
+  
 
 # Education to show in About widget
 education:
