@@ -13,7 +13,7 @@ draft: false
 featured: true
 doi: ""
 image:
-  filename: featured.gif
+  filename: featured.mp4
   focal_point: Smart
   preview_only: false
 
