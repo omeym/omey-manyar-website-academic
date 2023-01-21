@@ -21,5 +21,5 @@ abstract: In this work, we present an inverse reinforcement learning approach fo
 
 url_pdf: 'https://sites.google.com/usc.edu/irlfortasksequencing/home/paper?authuser=0'
 
-date: 2023-05-15T06:11:25.994Z
+date: 2023-01-15T06:11:25.994Z
 ---
