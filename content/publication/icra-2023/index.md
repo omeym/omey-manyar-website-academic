@@ -13,7 +13,7 @@ draft: false
 featured: true
 doi: ""
 image:
-  filename: featured.mp4
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 
