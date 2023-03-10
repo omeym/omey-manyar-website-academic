@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: journal-paper.pdf
+url_pdf: 'https://www.researchgate.net/publication/369142564_PHYSICS_INFORMED_SYNTHETIC_IMAGE_GENERATION_FOR_DEEP_LEARNING_BASED_DETECTION_OF_WRINKLES_AND_FOLDS'
 url_code: 'https://github.com/RROS-Lab/DeepSynthDefectDetector'
 url_dataset: 'https://drive.google.com/drive/folders/191EgISHWs6FH6FCKOSBTKoLQjo29bWh0?usp=share_link'
 url_poster: ''
