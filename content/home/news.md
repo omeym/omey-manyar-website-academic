@@ -13,7 +13,7 @@ title: News
 subtitle:
 
 design:
-  columns: '1'
+  columns: '2'
 
 active: true
 ---
