@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Applied Science Intern
+    company: Amazon Robotics
+    company_url: 'https://www.amazon.science/latest-news/how-amazon-robotics-researchers-are-solving-a-beautiful-problem'
+    company_logo: amazon-robotics
+    location: Seattle, WA
+    date_start: '2023-05-30'
+    date_end: '2023-08-18'
+    description: Worked with the perception team in the Stow Manipulation Project
+
   - title: Research Assistant
     company: Realization of Robotics Systems Lab
     company_url: ''
