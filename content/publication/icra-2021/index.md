@@ -15,7 +15,7 @@ authors:
 
 publication: IEEE International Conference in Robotics and Automation
 draft: false
-featured: true
+featured: false
 doi: "10.1109/ICRA48506.2021.9560939"
 image:
   filename: featured.png

@@ -1,5 +1,5 @@
 ---
-title: Inverse Reinforcement Learning Framework for Transferring Task Sequencing Policies from Humans to Robots in Manufacturing Applications
+title: Physics-Informed Learning to Enable Robotic Screw-Driving Under Hole Pose Uncertainties
 publication_types:
   - "1"
 authors:
