@@ -82,8 +82,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. student in robotics at USC, affiliated with the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/) advised by [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). My research is centered around integrating physics-informed learning methods into robotics, with a focus on enhancing robot's capability in manipulating objects with complex physics. I'm working on developing practical and scalable approaches to create explainable models that exploit physics-aware inductive biases for robots to perform complex tasks.
+I am a Ph.D. student in robotics at USC, affiliated with the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/) advised by [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). My research is centered around integrating physics-informed learning methods into robotics, focusing on enhancing robots' capability to manipulate objects with complex physics. I'm developing practical and scalable approaches to create explainable models that exploit physics-aware inductive biases for robots to perform complex tasks.
 
-Prior to starting my Ph.D., I have led multiple industry-funded projects at USC as a Master's student. In the past, I have worked for Rolls-Royce, Singapore as a Robotics Engineer for two years.
+Before starting my Ph.D., I have led multiple industry-funded projects at USC as a Master's student. In the past, I worked for Rolls-Royce, Singapore, as a robotics engineer for two years.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Omey_Manyar_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
