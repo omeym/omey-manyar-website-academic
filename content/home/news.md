@@ -17,6 +17,6 @@ design:
 
 active: true
 ---
-- Our paper on physics-informed robotic screw driving has been accepted for publication at IROS 2023 [Paper Link](https://sites.google.com/usc.edu/physicsinformedscrewdriving)
+- I presented our paper on physics-informed robotic screw driving at IROS 2023 [Paper Link](https://sites.google.com/usc.edu/physicsinformedscrewdriving)
 - In Summer 2023, I interned at Amazon Robotics as an Applied Scientist II intern in their stow perception team in Seattle
 - IEEE Spectrum featured my ICRA paper video [Article](https://spectrum.ieee.org/video-friday-agilicious)
