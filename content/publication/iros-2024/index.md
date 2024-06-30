@@ -1,5 +1,5 @@
 ---
-title: Physics-Informed Learning to Enable Robotic Screw-Driving Under Hole Pose Uncertainties
+title: Simulation-Assisted Learning for Efficient Bin-Packing of Deformable Packages in a Bimanual Robotic Cell
 publication_types:
   - "1"
 authors:
@@ -23,5 +23,5 @@ abstract: Bin-packing is an important problem in the robotic warehouse domain. T
 
 url_pdf: 'https://sites.google.com/usc.edu/bimanual-binpacking/paper'
 
-date: 2023-08-15T06:11:25.994Z
+date: 2024-10-15T06:11:25.994Z
 ---
