@@ -17,7 +17,7 @@ design:
 
 active: true
 ---
-- **June 2024**: Our paper on Bimanual Robotic Bin-packing of deformable packages has been accepted for publication at IEEE/RSJ IROS conference. I will present this at Abu Dhabi in October 2024 [Link](https://sites.google.com/usc.edu/bimanual-binpacking)
+- **June 2024**: Our paper on Bimanual robotic bin-packing of deformable packages has been accepted for publication at IEEE/RSJ IROS conference. I will be presenting this work at Abu Dhabi in October 2024 [Link](https://sites.google.com/usc.edu/bimanual-binpacking)
 - **June 2024**: Our paper on Task Allocation framework for human-robot collaborative cell was declared the runner-up for the best paper award at ASME's Manufacturing Science and Engineering Conference (MSEC)
 - **May 2024**: Started my Summer Internship at Toyota Research Institute in their Mobile Manipulation Perception team in Los Altos
 - **Apr 2024**: Successfully completed my Ph.D. thesis proposal, I am a Ph.D. Candidate now!
