@@ -23,5 +23,5 @@ abstract: Bin-packing is an important problem in the robotic warehouse domain. T
 
 url_pdf: 'https://sites.google.com/usc.edu/bimanual-binpacking/paper'
 
-date: 2024-10-15T06:11:25.994Z
+date: 2024-6-15T06:11:25.994Z
 ---
