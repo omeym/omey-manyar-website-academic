@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Ph.D. Research Intern
+    company: Toyota Research Institute
+    company_url: 'https://www.tri.global/research/demonstrating-mobile-manipulation-wild-metrics-driven-approach'
+    company_logo: tri-logo
+    location: Los Altos, CA
+    date_start: '2024-05-28'
+    date_end: '2024-08-15'
+    description: Worked with the mobile manipulation team on Visual Place Recognition for grocery picking robot
+  
   - title: Applied Science Intern
     company: Amazon Robotics
     company_url: 'https://www.amazon.science/latest-news/how-amazon-robotics-researchers-are-solving-a-beautiful-problem'
