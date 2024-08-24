@@ -1,5 +1,5 @@
 ---
-title: Compliant Object Manipulation
+title: Deformable Object Manipulation
 tags:
   - Deep Learning
 date: '2022-03-27T00:00:00Z'
