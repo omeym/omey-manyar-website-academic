@@ -86,4 +86,4 @@ I am a Ph.D. candidate in robotics at USC, affiliated with the Realization of Ro
 
 Before starting my Ph.D., I have led multiple industry-funded projects at USC as a Master's student. In the past, I worked for Rolls-Royce, Singapore, as a robotics engineer for two years.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Omey_Manyar_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Omey_Manyar_CV.pdf" "newtab" >}}CV{{< /staticref >}} (I am looking for full-time opportunities starting May 2025).
