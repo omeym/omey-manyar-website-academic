@@ -17,8 +17,8 @@ design:
 
 active: true
 ---
-- **Mar 2025**: Code and Dataset release for deformable-sim work. This work is focused on Deformable Object Simulation of a Package with Internal Objects Using NVIDIA Warp [Link](https://sites.google.com/usc.edu/deformable-sim/)
+- **June 2025** Attended the [Robotics Science and Systems]((https://www.linkedin.com/posts/snehaljauhri_live-gemini-robotics-demo-google-deepmind-ugcPost-7343349274253885440-Ifjo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA9fPuIByloza1czgHmFuODkatLkDfOjyko)) Conference at USC in LA, where I co-authored a paper at the Space Robotics Workshop [Link](https://albee.github.io/space-robotics-rss/)
+- **June 2025** Started working at GrayMatter Robotics as a Lead Robotics Engineer
+- **May 2025** I defended my Ph.D. thesis titled {{< staticref "uploads/Ph_D_Dissertation_Omey_Manyar.pdf" "newtab" >}}Physics-Informed AI Methods for Deformable Object Manipulation{{< /staticref >}}
+- **Apr 2025**: Our paper on real-to-sim parameter learning for thin-shell deformable objects is accepted at ASME IDETC-CIE 2025 Conference [Link](https://sites.google.com/usc.edu/deformable-sim/)
 - **Oct 2024**: I am selected as one of the finalist for the Amazon Robotics Fall Research Symposium. I will be presenting my work on physics-informed learning for deformable object manipulation, in-person at their Boston office [Link](https://app.brazenconnect.com/a/amazon-recruiting-other/e/eojg2)
-- **Oct 2024**: I presented our work on Bimanual robotic bin-packing of deformable packages at IROS 2024 held in Abu Dhabi [Link](https://sites.google.com/usc.edu/bimanual-binpacking)
-- **Aug 2024**: Had a great summer internship experience at Toyota Research Insitute (TRI) in Los Altos, where I worked on Indoor Visual Place Recognition with the Mobile Manipulation team
-- **June 2024**: Our paper on Task Allocation framework for human-robot collaborative cell was declared the runner-up for the best paper award at ASME's Manufacturing Science and Engineering Conference (MSEC)

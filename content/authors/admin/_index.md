@@ -84,7 +84,7 @@ highlight_name: true
 
 I am a Lead Robotics Engineer at [GrayMatter Robotics](https://graymatter-robotics.com/), where I develop advanced AI-driven solutions for the perception and planning stacks that power our robotic platforms to operate autonomously and reliably in high-variability, unstructured environments.
 
-Previously, I earned my Ph.D. in Robotics from the University of Southern California, where I was part of the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/), advised by [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). My research focused on integrating physics-informed learning methods into robotic manipulation, with an emphasis on generalization, intuitive physics-based reasoning, and data efficiency in handling complex deformable objects.
+Previously, I earned my Ph.D. in Robotics from the University of Southern California, where I was part of the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/), advised by [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). My research focused on integrating physics-informed learning methods into robotic manipulation, with an emphasis on generalization, intuitive physics-based reasoning, and data efficiency in handling complex deformable objects ({{< staticref "uploads/Ph_D_Dissertation_Omey_Manyar.pdf" "newtab" >}}Link to Dissertation{{< /staticref >}}).
 
 Before my Ph.D., I led multiple industry-funded projects at USC as a Master’s student and worked as a Robotics Engineer at Rolls-Royce in Singapore for two years.
 
