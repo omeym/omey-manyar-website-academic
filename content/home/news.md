@@ -17,7 +17,7 @@ design:
 
 active: true
 ---
-- **June 2025** Attended the [Robotics Science and Systems]((https://www.linkedin.com/posts/snehaljauhri_live-gemini-robotics-demo-google-deepmind-ugcPost-7343349274253885440-Ifjo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA9fPuIByloza1czgHmFuODkatLkDfOjyko)) Conference at USC in LA, where I co-authored a paper at the Space Robotics Workshop [Link](https://albee.github.io/space-robotics-rss/)
+- **June 2025** Attended the [Robotics Science and Systems](https://www.linkedin.com/posts/snehaljauhri_live-gemini-robotics-demo-google-deepmind-activity-7343349449491898368-jJEj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA9fPuIByloza1czgHmFuODkatLkDfOjyko) Conference at USC in LA, where I co-authored a paper at the Space Robotics Workshop [Link](https://albee.github.io/space-robotics-rss/)
 - **June 2025** Started working at GrayMatter Robotics as a Lead Robotics Engineer
 - **May 2025** I defended my Ph.D. thesis titled {{< staticref "uploads/Ph_D_Dissertation_Omey_Manyar.pdf" "newtab" >}}Physics-Informed AI Methods for Deformable Object Manipulation{{< /staticref >}}
 - **Apr 2025**: Our paper on real-to-sim parameter learning for thin-shell deformable objects is accepted at ASME IDETC-CIE 2025 Conference [Link](https://sites.google.com/usc.edu/deformable-sim/)
