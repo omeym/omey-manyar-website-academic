@@ -82,8 +82,11 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. candidate in robotics at USC, affiliated with the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/) advised by [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). My research is centered around integrating physics-informed learning methods into robotics, focusing on enhancing robots' capability to manipulate objects with complex physics. I'm developing practical and scalable approaches to create explainable models that exploit physics-aware inductive biases for robots to perform complex tasks.
+I am a Lead Robotics Engineer at [GrayMatter Robotics](https://graymatter-robotics.com/), where I develop advanced AI-driven solutions for the perception and planning stacks that power our robotic platforms to operate autonomously and reliably in high-variability, unstructured environments.
 
-Before starting my Ph.D., I have led multiple industry-funded projects at USC as a Master's student. In the past, I worked for Rolls-Royce, Singapore, as a robotics engineer for two years.
+Previously, I earned my Ph.D. in Robotics from the University of Southern California, where I was part of the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/), advised by [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). My research focused on integrating physics-informed learning methods into robotic manipulation, with an emphasis on generalization, intuitive physics-based reasoning, and data efficiency in handling complex deformable objects.
+
+Before my Ph.D., I led multiple industry-funded projects at USC as a Master’s student and worked as a Robotics Engineer at Rolls-Royce in Singapore for two years.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Omey_Manyar_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
