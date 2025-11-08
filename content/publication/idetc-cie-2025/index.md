@@ -1,6 +1,5 @@
 ---
-title: Synthetic image-assisted deep learning framework for detecting defects
-  during composite sheet layup
+title: Real-to-Sim Parameter Learning for Deformable Packages Using High-Fidelity Simulators for Robotic Manipulation
 publication_types:
   - "1"
 authors:
