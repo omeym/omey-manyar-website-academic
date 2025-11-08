@@ -24,5 +24,5 @@ url_project: 'https://sites.google.com/usc.edu/deformable-sim/'
 url_slides: ''
 url_source: ''
 url_video: ''
-date: 2022-08-14T05:46:26.756Z
+date: 2025-08-14T05:46:26.756Z
 ---

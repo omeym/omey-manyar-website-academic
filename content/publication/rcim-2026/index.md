@@ -57,4 +57,5 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+date: 2025-19-22T05:46:26.756Z
 ---
