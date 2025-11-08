@@ -29,7 +29,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.researchgate.net/publication/397427698_Autonomous_Robotic_Screwdriving_for_High-Mix_Manufacturing'
-url_code: ''
+url_code: 'https://github.com/l0g1c-80m8/screw-dynamics-sindy'
 url_dataset: ''
 url_poster: ''
 url_project: ''

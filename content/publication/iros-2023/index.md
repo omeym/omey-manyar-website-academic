@@ -10,7 +10,7 @@ authors:
 
 publication: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 draft: false
-featured: true
+featured: false
 doi: ""
 image:
   filename: featured.png
