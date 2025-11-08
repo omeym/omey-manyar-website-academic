@@ -17,7 +17,7 @@ design:
 
 active: true
 ---
-- **Nov 2025** Our paper on a mobile robotic system for screwdriving in unstructured environments has been published in Robotics and Computer-Integrated Manufacturing. [Link](researchgate.net/publication/397427698_Autonomous_Robotic_Screwdriving_for_High-Mix_Manufacturing?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0)
+- **Nov 2025** Our paper on a mobile robotic system for screwdriving in unstructured environments has been published in Robotics and Computer-Integrated Manufacturing. [Link](https://www.researchgate.net/publication/397427698_Autonomous_Robotic_Screwdriving_for_High-Mix_Manufacturing)
 - **June 2025** Attended the [Robotics Science and Systems](https://www.linkedin.com/posts/snehaljauhri_live-gemini-robotics-demo-google-deepmind-activity-7343349449491898368-jJEj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA9fPuIByloza1czgHmFuODkatLkDfOjyko) Conference at USC in LA, where I co-authored a paper at the Space Robotics Workshop [Link](https://albee.github.io/space-robotics-rss/)
 - **June 2025** Started working at GrayMatter Robotics as a Lead Robotics Engineer
 - **May 2025** I defended my Ph.D. thesis titled {{< staticref "uploads/Ph_D_Dissertation_Omey_Manyar.pdf" "newtab" >}}Physics-Informed AI Methods for Deformable Object Manipulation{{< /staticref >}}
