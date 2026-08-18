@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lead Robotics Engineer
+  - title: Engineering Manager:AI
     company: GrayMatter Robotics
     company_url: 'https://graymatter-robotics.com/'
     company_logo: gmr_logo
     location: Los Angeles, CA
     date_start: '2025-06-09'
     date_end: ''
-    description: 
+    description: Building [Factory Superintelligence](https://factory.graymatter-robotics.com/what-is-factory-superintelligence/)
 
   - title: Ph.D. Research Intern
     company: Toyota Research Institute

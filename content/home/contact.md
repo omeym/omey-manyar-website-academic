@@ -18,7 +18,7 @@ content:
   
 
   # Contact details (edit or remove options as required)
-  email: manyar@usc.edu
+  email: omeym24@gmail.com
   contact_links:
     - icon: linkedin
       icon_pack: fab

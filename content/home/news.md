@@ -17,9 +17,9 @@ design:
 
 active: true
 ---
+- **Aug 2026** Our latest whitepapers on Factory Superintelligence are available at. [Link](https://factory.graymatter-robotics.com/blog/)
 - **June 2026** Our paper titled Preference-Conditioned Reinforcement Learning for Space-Time Efficient Online 3D Bin Packing is accepted at ICRA 2026, Vienna. [Link](https://arxiv.org/abs/2603.07800)
 - **Nov 2025** Our paper on a mobile robotic system for screwdriving in unstructured environments has been published in Robotics and Computer-Integrated Manufacturing. [Link](https://www.researchgate.net/publication/397427698_Autonomous_Robotic_Screwdriving_for_High-Mix_Manufacturing)
 - **June 2025** Attended the [Robotics Science and Systems](https://www.linkedin.com/posts/snehaljauhri_live-gemini-robotics-demo-google-deepmind-activity-7343349449491898368-jJEj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA9fPuIByloza1czgHmFuODkatLkDfOjyko) Conference at USC in LA, where I co-authored a paper at the Space Robotics Workshop [Link](https://albee.github.io/space-robotics-rss/)
-- **June 2025** Started working at GrayMatter Robotics as a Lead Robotics Engineer
 - **May 2025** I defended my Ph.D. thesis titled {{< staticref "uploads/Ph_D_Dissertation_Omey_Manyar.pdf" "newtab" >}}Physics-Informed AI Methods for Deformable Object Manipulation{{< /staticref >}}
 - **Oct 2024**: I am selected as one of the finalist for the Amazon Robotics Fall Research Symposium. I will be presenting my work on physics-informed learning for deformable object manipulation, in-person at their Boston office [Link](https://app.brazenconnect.com/a/amazon-recruiting-other/e/eojg2)

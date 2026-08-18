@@ -10,12 +10,12 @@ last_name: Manyar
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Robotics
+role: Ph.D. in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Southern California
-    url: https://sites.usc.edu/rros/
+  - name: GrayMatter Robotics Inc.
+    url: https://factory.graymatter-robotics.com/blog/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Interested in the work I do? Feel free to reach out with any questions you might have at manyar@usc.edu.
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:manyar@usc.edu
+    link: mailto:omeym24@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Omeymanyar
@@ -81,12 +81,13 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I lead AI at [GrayMatter Robotics](https://graymatter-robotics.com/), where I work at the intersection of Physical AI, robotics, and manufacturing. My focus is on building intelligent systems that enable robots to understand their environment, reason about physical processes, learn from experience, and adapt autonomously to the variability of real-world production.
 
-I am a Lead Robotics Engineer at [GrayMatter Robotics](https://graymatter-robotics.com/), where I develop advanced AI-driven solutions for the perception and planning stacks that power our robotic platforms to operate autonomously and reliably in high-variability, unstructured environments.
+At GrayMatter, I lead Factory Superintelligence efforts spanning world models, simulation and synthetic data, learning-based manipulation, autonomous commissioning, and AI agents for manufacturing. A central theme of my work is closing the gap between what robots can demonstrate in controlled environments and what is required for them to operate reliably, autonomously, and at scale in production.
 
 Previously, I earned my Ph.D. in Robotics from the University of Southern California, where I was part of the Realization of Robotics Systems Lab [(RRoS)](https://sites.usc.edu/rros/), advised by [Dr. Satyandra K. Gupta](https://sites.usc.edu/skgupta/). My research focused on integrating physics-informed learning methods into robotic manipulation, with an emphasis on generalization, intuitive physics-based reasoning, and data efficiency in handling complex deformable objects ({{< staticref "uploads/Ph_D_Dissertation_Omey_Manyar.pdf" "newtab" >}}Link to Dissertation{{< /staticref >}}).
 
-Before my Ph.D., I led multiple industry-funded projects at USC as a Master’s student and worked as a Robotics Engineer at Rolls-Royce in Singapore for two years.
+Before my Ph.D., I led multiple industry-funded robotics projects at USC as a Master’s student and spent two years as a Robotics Engineer at Rolls-Royce in Singapore..
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Omey_Manyar_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
